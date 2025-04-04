@@ -1,0 +1,215 @@
+{
+    "CURRENT_DATA": {
+        "name": "New Haven",
+        "region": "Connecticut",
+        "country": "United States of America",
+        "lat": 41.3081,
+        "lon": -72.9286,
+        "localtime": "2025-03-12 01:16",
+        "cloud": 0,
+        "humidity": 85,
+        "pressure_mb": 1009.0,
+        "precip_mm": 0.0,
+        "wind_dir": "N",
+        "condition": null,
+        "temperature": {}
+    },
+    "FORECAST_DATA": {
+        "forecastday": [
+            {
+                "maxtemp_c": 9.2,
+                "maxtemp_f": 48.6,
+                "mintemp_c": 2.9,
+                "mintemp_f": 37.2,
+                "avgtemp_c": 5.5,
+                "avgtemp_f": 42.0,
+                "maxwind_mph": 10.3,
+                "maxwind_kph": 16.6,
+                "totalprecip_mm": 0.0,
+                "totalprecip_in": 0.0,
+                "totalsnow_cm": 0.0,
+                "avgvis_km": 10.0,
+                "avgvis_miles": 6.0,
+                "avghumidity": 64,
+                "daily_will_it_rain": 0,
+                "daily_chance_of_rain": 0,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 0,
+                "condition": {
+                    "text": "Cloudy ",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+                    "code": 1006
+                },
+                "uv": 0.8
+            },
+            {
+                "maxtemp_c": 3.7,
+                "maxtemp_f": 38.7,
+                "mintemp_c": 1.8,
+                "mintemp_f": 35.2,
+                "avgtemp_c": 2.7,
+                "avgtemp_f": 36.9,
+                "maxwind_mph": 11.9,
+                "maxwind_kph": 19.1,
+                "totalprecip_mm": 0.01,
+                "totalprecip_in": 0.0,
+                "totalsnow_cm": 0.0,
+                "avgvis_km": 9.9,
+                "avgvis_miles": 6.0,
+                "avghumidity": 67,
+                "daily_will_it_rain": 0,
+                "daily_chance_of_rain": 0,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 0,
+                "condition": {
+                    "text": "Overcast ",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                    "code": 1009
+                },
+                "uv": 0.5
+            },
+            {
+                "maxtemp_c": 8.3,
+                "maxtemp_f": 46.9,
+                "mintemp_c": 2.1,
+                "mintemp_f": 35.8,
+                "avgtemp_c": 4.2,
+                "avgtemp_f": 39.5,
+                "maxwind_mph": 6.7,
+                "maxwind_kph": 10.8,
+                "totalprecip_mm": 0.0,
+                "totalprecip_in": 0.0,
+                "totalsnow_cm": 0.0,
+                "avgvis_km": 8.9,
+                "avgvis_miles": 5.0,
+                "avghumidity": 79,
+                "daily_will_it_rain": 0,
+                "daily_chance_of_rain": 0,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 0,
+                "condition": {
+                    "text": "Overcast ",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                    "code": 1009
+                },
+                "uv": 1.0
+            }
+        ],
+        "date": [
+            "2025-03-12",
+            "2025-03-13",
+            "2025-03-14"
+        ],
+        "day": [
+            {
+                "maxtemp_c": 9.2,
+                "maxtemp_f": 48.6,
+                "mintemp_c": 2.9,
+                "mintemp_f": 37.2,
+                "avgtemp_c": 5.5,
+                "avgtemp_f": 42.0,
+                "maxwind_mph": 10.3,
+                "maxwind_kph": 16.6,
+                "totalprecip_mm": 0.0,
+                "totalprecip_in": 0.0,
+                "totalsnow_cm": 0.0,
+                "avgvis_km": 10.0,
+                "avgvis_miles": 6.0,
+                "avghumidity": 64,
+                "daily_will_it_rain": 0,
+                "daily_chance_of_rain": 0,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 0,
+                "condition": {
+                    "text": "Cloudy ",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/119.png",
+                    "code": 1006
+                },
+                "uv": 0.8
+            },
+            {
+                "maxtemp_c": 3.7,
+                "maxtemp_f": 38.7,
+                "mintemp_c": 1.8,
+                "mintemp_f": 35.2,
+                "avgtemp_c": 2.7,
+                "avgtemp_f": 36.9,
+                "maxwind_mph": 11.9,
+                "maxwind_kph": 19.1,
+                "totalprecip_mm": 0.01,
+                "totalprecip_in": 0.0,
+                "totalsnow_cm": 0.0,
+                "avgvis_km": 9.9,
+                "avgvis_miles": 6.0,
+                "avghumidity": 67,
+                "daily_will_it_rain": 0,
+                "daily_chance_of_rain": 0,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 0,
+                "condition": {
+                    "text": "Overcast ",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                    "code": 1009
+                },
+                "uv": 0.5
+            },
+            {
+                "maxtemp_c": 8.3,
+                "maxtemp_f": 46.9,
+                "mintemp_c": 2.1,
+                "mintemp_f": 35.8,
+                "avgtemp_c": 4.2,
+                "avgtemp_f": 39.5,
+                "maxwind_mph": 6.7,
+                "maxwind_kph": 10.8,
+                "totalprecip_mm": 0.0,
+                "totalprecip_in": 0.0,
+                "totalsnow_cm": 0.0,
+                "avgvis_km": 8.9,
+                "avgvis_miles": 5.0,
+                "avghumidity": 79,
+                "daily_will_it_rain": 0,
+                "daily_chance_of_rain": 0,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 0,
+                "condition": {
+                    "text": "Overcast ",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+                    "code": 1009
+                },
+                "uv": 1.0
+            }
+        ],
+        "uv": [
+            null,
+            null,
+            null
+        ],
+        "feelslike": [
+            null,
+            null,
+            null
+        ],
+        "avgtemp": [
+            null,
+            null,
+            null
+        ],
+        "maxtemp": [
+            null,
+            null,
+            null
+        ],
+        "mintemp": [
+            null,
+            null,
+            null
+        ],
+        "totalprecip_mm": [
+            null,
+            null,
+            null
+        ]
+    },
+    "ALERTS": {}
+}
